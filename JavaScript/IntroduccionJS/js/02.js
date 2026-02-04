@@ -11,4 +11,5 @@ Es un tipo de dato para cadenas de texto etc
 */
 let strin ="hola";
 console.log(strin);
-console.log(typeof strin)
+console.log("let string hola:" + typeof strin)
+console.log()
